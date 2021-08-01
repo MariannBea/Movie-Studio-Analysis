@@ -23,6 +23,7 @@ After uploading the data to python, the first step was to look more carefully at
 2. Is there a correlation between content rating and profits?
 3. Are some genres more profitable for specific content ratings?
 4. Does an increase in the number of Facebook likes for directors or actors correlate with an increase in profits?
-5. Are some topics correlated with more profits?
+5. Is being in or directing a larger number of movies correlated with more profits?
+6. Are some topics correlated with more profits?
 
 I found inflation data at: https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
