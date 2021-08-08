@@ -27,3 +27,7 @@ After uploading the data to python, the first step was to look more carefully at
 6. Are some topics correlated with more profits?
 
 I found inflation data at: https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
+
+Main Code: 
+Code for getting movie revenue data:
+Data:
