@@ -26,8 +26,8 @@ After uploading the data to python, the first step was to look more carefully at
 5. Is being in or directing a larger number of movies correlated with more profits?
 6. Are some topics correlated with more profits?
 
-I found inflation data at: https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
+This is the main code used to clean: https://github.com/MariannBea/Movie-Studio-Analysis/blob/57931c07b18bc26b34e4d60335b8a4735697ac6b/Notebooks/Movies.ipynb
+Code for getting movie revenue data: https://github.com/MariannBea/Movie-Studio-Analysis/blob/57931c07b18bc26b34e4d60335b8a4735697ac6b/Notebooks/Get%20Budget%20Info.ipynb
+All data produced by the above files can be found in the data folder
 
-Main Code: 
-Code for getting movie revenue data:
-Data:
+I found inflation data at: https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
