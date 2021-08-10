@@ -26,10 +26,10 @@ After uploading the data to python, the first step was to look more carefully at
 5. Is being in or directing a larger number of movies correlated with more profits?
 6. Are some topics correlated with more profits?
 
-This is the main code used to clean: https://github.com/MariannBea/Movie-Studio-Analysis/blob/57931c07b18bc26b34e4d60335b8a4735697ac6b/Notebooks/Movies.ipynb
+This is the main code used to clean: https://github.com/MariannBea/Movie-Studio-Analysis/blob/e5d2e5f134100b56a835581371772b68c18c172b/Notebooks/Movies%20-%20Cleaning.ipynb
 Code for getting movie revenue data: https://github.com/MariannBea/Movie-Studio-Analysis/blob/57931c07b18bc26b34e4d60335b8a4735697ac6b/Notebooks/Get%20Budget%20Info.ipynb
-This is the code for the linear regression analysis: 
-This is the code for the decision tree analysis: 
+This is the code for the linear regression analysis: https://github.com/MariannBea/Movie-Studio-Analysis/blob/43cb71c1faf238a93734623185c424611396ffa3/Notebooks/Movies%20-%20Linear%20Regression.ipynb
+This is the code for the decision tree analysis: https://github.com/MariannBea/Movie-Studio-Analysis/blob/e5d2e5f134100b56a835581371772b68c18c172b/Notebooks/Movies%20-%20Decision%20Tree.ipynb
 All data produced by the above files can be found in the data folder
 
 I found inflation data at: https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
