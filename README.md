@@ -28,6 +28,10 @@ After uploading the data to python, the first step was to look more carefully at
 
 This is the main code used to clean: https://github.com/MariannBea/Movie-Studio-Analysis/blob/57931c07b18bc26b34e4d60335b8a4735697ac6b/Notebooks/Movies.ipynb
 Code for getting movie revenue data: https://github.com/MariannBea/Movie-Studio-Analysis/blob/57931c07b18bc26b34e4d60335b8a4735697ac6b/Notebooks/Get%20Budget%20Info.ipynb
+This is the code for the linear regression analysis: 
+This is the code for the decision tree analysis: 
 All data produced by the above files can be found in the data folder
 
 I found inflation data at: https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
+
+##### Findings
