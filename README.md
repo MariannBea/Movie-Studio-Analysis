@@ -47,4 +47,4 @@ These are the specific research questions I aimed to answer:
 * [matplotlib](https://anaconda.org/conda-forge/matplotlib)
 
 ## Featured Deliverables
-* [Blog Post](link)
+* [Blog Post](https://mariannbea.github.io//machine%20learning/movie-studio-profits-cleaning/)
