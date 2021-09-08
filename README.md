@@ -47,4 +47,7 @@ These are the specific research questions I aimed to answer:
 * [matplotlib](https://anaconda.org/conda-forge/matplotlib)
 
 ## Featured Deliverables
-* [Blog Post](https://mariannbea.github.io//machine%20learning/movie-studio-profits-cleaning/)
+* [Blog Post: Cleaning Data](https://mariannbea.github.io//machine%20learning/movie-studio-profits-cleaning/)
+* [Blog Post: Exploratory Analysis](https://mariannbea.github.io//machine%20learning/movie-studio-profits-eda/)
+* [Blog Post: Linear Regression](https://mariannbea.github.io//machine%20learning/movie-studio-profits-linear-regression/)
+* [Blog Post: Decision Trees](https://mariannbea.github.io//machine%20learning/movie-studio-profits-decision-trees/)
