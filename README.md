@@ -52,7 +52,7 @@ These are the specific research questions I aimed to answer:
 * [Blog Post: Linear Regression](https://mariannbea.github.io//machine%20learning/movie-studio-profits-linear-regression/)
 * [Blog Post: Decision Trees](https://mariannbea.github.io//machine%20learning/movie-studio-profits-decision-trees/)
 
-## Resources Used
+## References and Resources
 
 ### General Research
 
@@ -86,7 +86,7 @@ Tutorial: Exploratory Data Analysis (EDA) with Categorical Variablesby Erin Hoff
 
 How to Combine Oversampling and Undersampling for Imbalanced Classification by Jason Brownlee on [Machine Learning Mastery](https://machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification)
 
-
-
-
-
+## Contact 
+Mariann Beagrie
+mmbeagrie@gmail.com
+https://mariannbea.github.io/
