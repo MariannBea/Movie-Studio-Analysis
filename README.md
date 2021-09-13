@@ -35,7 +35,7 @@ These are the specific research questions I aimed to answer:
 2. Raw Data is being kept [here](https://github.com/MariannBea/Movie-Studio-Analysis/tree/main/data/raw_data) within this repo.  
 * You can access the data yourself by following the links below:
   * Movie data set of a selction of 5000 movies from 1916 - 2016. It can be obtained from [Kaggle](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset). 
-  * World wide [Inflation data](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG) from the World Bank covering years 1960 to present.
+  * World wide [inflation data](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG) from the World Bank covering years 1960 to present.
   * Information about movie budget and revenue obtained using the [The Movie Database](https://www.themoviedb.org/?language=en-US) api. 
 3. Notebooks are being stored here: [here](https://github.com/MariannBea/Movie-Studio-Analysis/tree/main/Notebooks)
 4. You will need to install the following packages:
@@ -87,6 +87,9 @@ Tutorial: Exploratory Data Analysis (EDA) with Categorical Variablesby Erin Hoff
 How to Combine Oversampling and Undersampling for Imbalanced Classification by Jason Brownlee on [Machine Learning Mastery](https://machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification)
 
 ## Contact 
+
 Mariann Beagrie
+
 mmbeagrie@gmail.com
+
 https://mariannbea.github.io/
