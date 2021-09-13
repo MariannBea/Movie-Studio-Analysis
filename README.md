@@ -1,22 +1,6 @@
 # Movie Studio Analysis
 Is it possible to predict if a movie will earn in the top 25% of profits? If so, what features are useful in making this prediction.  That is what this project aims to find out.
 
-### Methods Used
-* Data Cleaning
-* Exploratory Data Analysis
-* Inferential Statistics
-* Machine Learning:
- * Linear Regression
- * Decision Trees
-
-### Technologies
- 
-* Python:
- * pandas
- * jupyter notebook 
- * sklearn
- * nltk
-
 ## Project Description
 My goal was to see if I could predict if a film will be in the top 25% of profitability for the year, using factors that movie studios could consider when planning a movie project.  
 
@@ -28,6 +12,22 @@ These are the specific research questions I aimed to answer:
 4.	Does an increase in the number of Facebook likes for directors or actors correlate with increased profits?
 5.	Is being in or directing a greater number of movies correlated with more profits?
 6.	Are some topics correlated with more profits?
+
+### Methods Used
+* Data Cleaning
+* Exploratory Data Analysis
+* Inferential Statistics
+* Machine Learning:
+  * Linear Regression
+  * Decision Trees
+
+### Technologies
+ 
+* Python:
+  * pandas
+  * jupyter notebook 
+  * sklearn
+  * nltk
 
 ## Getting Started
 
