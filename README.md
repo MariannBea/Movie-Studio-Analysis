@@ -32,19 +32,19 @@ These are the specific research questions I aimed to answer:
 ## Getting Started
 
 1. Clone this repo 
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.  
+2. Raw Data is being kept [here](https://github.com/MariannBea/Movie-Studio-Analysis/tree/main/data/raw_data) within this repo.  
 * You can access the data yourself by following the links below:
-** [Kaggle dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
-** [Inflation data](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG)
-** [The Movie Database](https://www.themoviedb.org/?language=en-US): Accessing this data requires using their api.    
+  * Movie data set of a selction of 5000 movies from 1916 - 2016. It can be obtained from [Kaggle](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset). 
+  * World wide [Inflation data](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG) from the World Bank covering years 1960 to present.
+  * Information about movie budget and revenue obtained using the [The Movie Database](https://www.themoviedb.org/?language=en-US) api. 
 3. Notebooks are being stored here: [here](https://github.com/MariannBea/Movie-Studio-Analysis/tree/main/Notebooks)
 4. You will need to install the following packages:
-* [scikit-learn](https://scikit-learn.org/stable/install.html)
-* [nltk](https://www.nltk.org/install.html)
-* [pandas-profiling](https://pandas-profiling.github.io/pandas-profiling/docs/master/index.html)
-* [requests](https://anaconda.org/anaconda/requests)
-* [seaborn](https://www.delftstack.com/howto/seaborn/conda-install-seaborn-module-python/)
-* [matplotlib](https://anaconda.org/conda-forge/matplotlib)
+  * [scikit-learn](https://scikit-learn.org/stable/install.html)
+  * [nltk](https://www.nltk.org/install.html)
+  * [pandas-profiling](https://pandas-profiling.github.io/pandas-profiling/docs/master/index.html)
+  * [requests](https://anaconda.org/anaconda/requests)
+  * [seaborn](https://www.delftstack.com/howto/seaborn/conda-install-seaborn-module-python/)
+  * [matplotlib](https://anaconda.org/conda-forge/matplotlib)
 
 ## Featured Deliverables
 * [Blog Post: Cleaning Data](https://mariannbea.github.io//machine%20learning/movie-studio-profits-cleaning/)
